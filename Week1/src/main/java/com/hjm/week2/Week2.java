@@ -1,4 +1,4 @@
-package com.hjm.week4;
+package com.hjm.week2;
 
 import io.reactivex.Observable;
 import io.reactivex.ObservableEmitter;
@@ -9,8 +9,8 @@ import io.reactivex.functions.Action;
 import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
 
-public class Week4 {
-    private Week4() {
+public class Week2 {
+    private Week2() {
     }
 
     public static void run() {
